@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
+
+body {
+  padding: 30px;
+}
+
+.a-level-ico {
+  position: absolute;
+}
+
+.text {
+  margin-left: 200px;
+  padding-top: 12px;
+}
+
+.text2 {
+  padding-top: 16px;
+}
+
+.text3 {
+  padding-top: 10px;
+}
+
+.text4 {
+  padding-top: 10px;
+}
+
+.text5 {
+  padding-top: 10px;
+}
+
+.text6 {
+  padding-top: 10px;
+  margin-right: 130px;
+}
+
+.a-level-icosmall {
+  width: 120px;
+  position: absolute;
+  right: 0px;
+  top: 15px;
+}
+
+.relative {
+  position: relative;
+}
+
+.textu p {
+  padding-top: 10px;
+}
+
+.visible {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
