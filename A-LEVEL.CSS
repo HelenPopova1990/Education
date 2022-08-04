@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+p {
+  width: fit-content;
+  margin: 0 auto;
+  padding-top: 150px;
+  font-size: 700%;
+
+}
+
+.gradient-text {
+  color: darkblue;
+}
+
+.space {
+  background-image: url("images/space.jpg");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
